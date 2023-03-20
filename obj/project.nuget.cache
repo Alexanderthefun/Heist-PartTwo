@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "ecd+S2du6Q0J6Ah1/AceiCbWOBDlf4eCKJzn+Nf02AZjyhWihWpHiNL9zMUXtsEkvjftF51fxtCHLGSOPKHchQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AFdev\\workspace\\HeistPartTwo\\Heist-pt2.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\AFdev\\workspace\\HeistPartTwo\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}
